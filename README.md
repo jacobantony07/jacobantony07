@@ -1,6 +1,6 @@
 # This is cool af
- ```javascript
+<!--  ```javascript
   function whatTheHell = () =>{
     return "what the Hell"
     }
- ```
+ ``` -->
