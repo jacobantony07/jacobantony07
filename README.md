@@ -1,16 +1,10 @@
 # This is cool af
 
-
+<a href="">Whatttt</a>
 <div align="center">
   what does
 </div>
-<style>
-  .body{
-  width:100px;
-  height:100px;
-  background-color:"red";
-  }
-</style>
+
 
 <!--  ```javascript
   function whatTheHell = () =>{
