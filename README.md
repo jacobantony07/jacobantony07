@@ -1,14 +1,16 @@
 # This is cool af
+
+
+<div align="center">
+  what does
+</div>
 <style>
-  div{
+  .body{
   width:100px;
   height:100px;
   background-color:"red";
   }
 </style>
-
-<div>What would this look like</div>
-
 
 <!--  ```javascript
   function whatTheHell = () =>{
